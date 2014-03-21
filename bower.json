@@ -1,0 +1,27 @@
+{
+  "name": "ajax",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simonpeters/ajax",
+  "description": "Simple ajax library",
+  "main": "ajax.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ajax",
+    "simple",
+    "ES5"
+  ],
+  "authors": [
+    "simonpeters3@gmail.com"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
