@@ -1,0 +1,24 @@
+{
+  "name": "ajax",
+  "version": "0.0.1",
+  "description": "Simple ajax library",
+  "main": "ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonpeters/ajax.git"
+  },
+  "keywords": [
+    "simple",
+    "ajax",
+    "ES5"
+  ],
+  "author": "simonpeters3@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonpeters/ajax/issues"
+  },
+  "homepage": "https://github.com/simonpeters/ajax"
+}
